@@ -32,6 +32,7 @@
 			setIndex              : 0,
 			setTitle              : '',
 			lastImage             : 0
+			
 		},settings);
 		
 		calls++;
